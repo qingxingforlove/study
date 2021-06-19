@@ -10,6 +10,7 @@ public class Test01 extends Object{
         System.out.println(User.class);
         System.out.println(user.getClass());
         System.out.println(c1.getSuperclass());
+        System.out.println("添加打印信息");
     }
 }
 
