@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e7f5568-77c7-4119-8b0f-b206cd1b178d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/why/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/study/why/Test03.java" afterDir="false" />
+    <list default="true" id="9e7f5568-77c7-4119-8b0f-b206cd1b178d" name="Default Changelist" comment="Test03添加id">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/study/why/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/why/Test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +20,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1uAXOZKRByNv2wQ8SOLNhljTqzu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1624109339282</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test03添加id">
+      <created>1624113992695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624113992695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +75,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <MESSAGE value="Test03添加id" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test03添加id" />
   </component>
 </project>
